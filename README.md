@@ -99,7 +99,7 @@ python main.py
 **3. Ball Possession Analysis**
 
 - Measure distance from ball to each player
-- Assign ball to closest player (within 70px threshold)
+- Assign ball to closest player
 - Track possession changes frame-by-frame
 
 **4. Video Annotation**
